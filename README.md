@@ -1,4 +1,5 @@
 ### 👋 Soojeoong's Github
+![Header](./github-header-image.png)
 <!--
 **Soojeoong/Soojeoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
