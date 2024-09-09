@@ -1,7 +1,8 @@
 ### 👋 Soojeoong's Github
 ![Header](./github-header-image_kim.png)
-![Soojeoong's github stats](https://github-readme-stats.vercel.app/api?username=Soojeoong)
 <!--
+![Soojeoong's github stats](https://github-readme-stats.vercel.app/api?username=Soojeoong)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
