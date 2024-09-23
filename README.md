@@ -1,6 +1,8 @@
 ### 👋 Soojeoong's Github
-![Header](./github-header-image_kim.png)
+
+data & AI
 <!--
+![Header](./github-header-image_kim.png)
 ![Soojeoong's github stats](https://github-readme-stats.vercel.app/api?username=Soojeoong)
 
 - 🔭 I’m currently working on ...
