@@ -1,6 +1,6 @@
 ### 👋 Soojeoong's Github
 
-data & AI
+Data & AI
 <!--
 ![Header](./github-header-image_kim.png)
 ![Soojeoong's github stats](https://github-readme-stats.vercel.app/api?username=Soojeoong)
