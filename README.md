@@ -48,7 +48,7 @@ Multi-modal AI applications and generative 3D modeling
 - **2023.06 - 2023.08** : 데이터 청년 캠퍼스 자연어처리 2023
     - YOLO와 문장 생성 모델을 이용한 반려동물 식단 관리 서비스
 - **2024.03 - 2024.08** : 세종대 AI+DS 창의설계경진대회: [레이더 데이터를 활용한 이상치 예측을 통한 집중호우 예측(Weather Forecasting)](https://github.com/Soojeoong/Anomaly-Forecast) 🏆
-- **2024.03 - 2024.08** : FNAI Lab @ SJU (Food & Nutrition Artificial Intelligence Laboratory) (Undergraduate Research Intern)
+- **2024.03 - 2024.08** : FNAI(Food & Nutrition Artificial Intelligence Laboratory) Lab @ SJU (Undergraduate Research Intern)
 - **2024.08 - 2025.02** : NAVER BoostCamp 7th (Computer Vision Track) 
   - **2024.09**: [ImageNet Sketch 이미지 분류](https://github.com/Soojeoong/level1-imageclassification-cv-07)  
   - **2024.10.02 - 2024.10.24**: [재활용 품목 분류를 위한 Object Detection](https://github.com/Soojeoong/level2-objectdetection-cv-07)  (3위)
