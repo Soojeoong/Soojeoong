@@ -33,7 +33,7 @@
   
 ### 🌎 I’m Excited About
 **Data & Artificial Intelligence** <br>
-Multi-modal AI applications and generative 3D modeling
+Multi-modal AI and generative modeling
 <br>
 <br>
 <br>
