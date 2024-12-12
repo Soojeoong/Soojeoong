@@ -38,6 +38,7 @@ Multi-modal AI applications and generative 3D modeling
 <br>
 <br>
 
+<!--
 ### 🛠️ Experiences 
 
 <div align="left">
@@ -57,7 +58,7 @@ Multi-modal AI applications and generative 3D modeling
   - **2024.10.30 - 2024.11.07**: [다국어 영수증 OCR](https://github.com/Soojeoong/level2-cv-datacentric-cv-07)  (4위)
   - **2024.11.13 - 2024.11.28**: [Hand Bone Image Segmentation](https://github.com/Soojeoong/level2-cv-semanticsegmentation-cv-02-lv3) (7위)
 </div>      
-
+-->
 
 
 
