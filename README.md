@@ -53,9 +53,9 @@ Multi-modal AI and Generative Modeling
 - **2024.03 - 2024.08** : FNAI(Food & Nutrition Artificial Intelligence Laboratory) Lab @ SJU (Undergraduate Research Intern)
 - **2024.08 - 2025.02** : NAVER BoostCamp 7th (Computer Vision Track) 
   - **2024.09**: [ImageNet Sketch 이미지 분류](https://github.com/Soojeoong/level1-imageclassification-cv-07)  
-  - **2024.10.02 - 2024.10.24**: [재활용 품목 분류를 위한 Object Detection](https://github.com/Soojeoong/level2-objectdetection-cv-07)  (3위)
-  - **2024.10.30 - 2024.11.07**: [다국어 영수증 OCR](https://github.com/Soojeoong/level2-cv-datacentric-cv-07)  (4위)
-  - **2024.11.13 - 2024.11.28**: [Hand Bone Image Segmentation](https://github.com/Soojeoong/level2-cv-semanticsegmentation-cv-02-lv3) (7위)
+  - **2024.10**: [재활용 품목 분류를 위한 Object Detection](https://github.com/Soojeoong/level2-objectdetection-cv-07)  (3위)
+  - **2024.10 - 2024.11**: [다국어 영수증 OCR](https://github.com/Soojeoong/level2-cv-datacentric-cv-07)  (4위)
+  - **2024.11**: [Hand Bone Image Segmentation](https://github.com/Soojeoong/level2-cv-semanticsegmentation-cv-02-lv3) (7위)
 </div>      
 
 
