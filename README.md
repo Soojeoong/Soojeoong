@@ -38,7 +38,7 @@ Multi-modal AI and Generative Modeling
 <br>
 <br>
 
-### 🛠️ Experiences 
+### 🏃‍➡️ Experiences 
 
 <div align="left">
   
