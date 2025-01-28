@@ -38,6 +38,7 @@ Multi-modal AI and Generative Modeling
 <br>
 <br>
 
+<!--
 ### 🏃‍➡️ Experiences 
 
 <div align="left">
