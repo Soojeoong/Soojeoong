@@ -2,40 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=purple&height=300&section=header&text=Soojeoong's%20Github&fontSize=50)
 
-###  🛠️ Skills  
-
-<!-- 프로그래밍 언어 -->
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/c-00599C?style=flat-square&logo=c&logoColor=white" />
-<!-- 프론트엔드 -->
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<br>
-
-<!-- 데이터베이스 -->
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<!-- 머신러닝/딥러닝 -->
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<!-- 운영체제 및 자동화 -->
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-<br>
-
-<!-- 버전 관리 및 협업 -->
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />
-<br>
-<br>
-<br>
-
-  
-### 🌎 I’m Excited About
-**Data & Artificial Intelligence** <br>
-<br>
-<br>
-<br>
 
 <!--
 ### 🏃‍➡️ Experiences 
